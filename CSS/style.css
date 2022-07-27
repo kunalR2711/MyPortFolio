@@ -1,0 +1,136 @@
+body
+{
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr
+{
+    width: 5%;
+    border: 10px dotted #EAF6F6 ;
+    border-bottom: none;
+    margin: 100px auto;
+    /* border-left: none; */
+}
+h1
+{
+    padding-top: 100px;
+    display: inline-block;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    /* line-height: 2; */
+}
+h2
+{
+    font-weight: normal;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3
+{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 10px;
+    /* position: relative;
+    left: 35%; */
+}
+.cloud1
+{
+    position: absolute;
+    top:30px;
+    right: 400px;
+}
+.cloud2
+{
+    position: absolute;
+    left: 400px;
+}
+.topC
+{
+    background-color: #EAF6F6;
+}
+.MyPic
+{
+    height: 150px;
+}
+.midC
+{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.bottomC
+{
+    padding: 20px 0 20px;
+    background-color: #66BFBF;
+    line-height: 3;
+    margin:0;
+}
+.srmLink
+{
+    color: black;
+    font-family: 'Merriweather', sans-serif;
+    text-decoration: none;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.WDnd
+{
+    float: left;
+    margin-right: 30px;
+}
+.gamer
+{
+    margin-left: 30px;
+    float: right;
+}
+.btn
+{
+    border: 0;
+    border-radius: 8px;
+    font-size: 1rem;
+    background-image: linear-gradient(#11cdd4,#11999E);
+    padding: 10px 20px;
+    color: white;
+}
+.btn:hover
+{
+    background-image:linear-gradient(#30e3cb,#2bc4ad);
+}
+.contact-Desc
+{
+    width: 23%;
+    margin: 40px auto 60px;
+}
+.footer-link
+{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color:#EAF6F6;
+}
+.copyrights
+{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding-top: 10px;
+}
